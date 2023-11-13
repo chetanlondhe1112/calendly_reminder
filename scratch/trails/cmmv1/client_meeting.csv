@@ -1,0 +1,100 @@
+meetingtime,status,email,name
+2023-09-02T05:00:00.000000Z,active,rajkumar.srinivas@gmail.com,Rajkumar Srinivasan
+2023-09-02T06:30:00.000000Z,active,joshua_sundar_raj@yahoo.com,Joshua Sundarraj
+2023-09-02T08:00:00.000000Z,active,rudregowdarsps07@gmail.com,Rudregowda 
+2023-09-02T10:00:00.000000Z,canceled,sushmagowda2929@gmail.com,Sushma R
+2023-09-03T10:30:00.000000Z,active,nilanjan.roychowdhury@gmail.com,Nilanjan
+2023-09-04T08:00:00.000000Z,active,narsing.bethala@gmail.com,Narsing Rao Bethala
+2023-09-04T10:30:00.000000Z,active,paul.cheerankal@gmail.com,Paul Jose Cheerankal
+2023-09-04T12:30:00.000000Z,canceled,girishmud@gmail.com,Girish M
+2023-09-07T05:30:00.000000Z,active,kkverma.69@gmail.com,Kaushal Verma
+2023-09-07T06:30:00.000000Z,active,rbhatknk@gmail.com,Ramachandra Bhat 
+2023-09-07T08:30:00.000000Z,canceled,mrao@levi.com,Mallikarjun 
+2023-09-07T09:30:00.000000Z,active,avineny@gmail.com,Bhaskaran N 
+2023-09-07T11:00:00.000000Z,active,kb.nagaraju@gmail.com,Mr.K B Nagaraj
+2023-09-07T11:30:00.000000Z,canceled,avineny@gmail.com,Bhaskaran N 
+2023-09-08T05:00:00.000000Z,canceled,ashok.bangalore@gmail.com,Ashok
+2023-09-08T06:30:00.000000Z,active,sub.visha@gmail.com,R S Subramaniam
+2023-09-08T09:30:00.000000Z,active,chaithrasadanand93@gmail.com,Chaithra
+2023-09-08T10:30:00.000000Z,active,mrao@levi.com,Mallikarjun 
+2023-09-08T11:30:00.000000Z,active,vikramgoyal@gmail.com,Vikram Goyal
+2023-09-08T12:30:00.000000Z,active,yes_manjunath@yahoo.com,Manjunath S
+2023-09-12T05:00:00.000000Z,canceled,nagesh36@yahoo.com,Nageshwar C
+2023-09-12T09:00:00.000000Z,active,deepa.narasimhan@gmail.com,Deepa Narasimhan
+2023-09-12T10:30:00.000000Z,active,nagesh36@yahoo.com,Nageshwar C
+2023-09-12T12:30:00.000000Z,canceled,sana167@yahoo.com,Anand Subramanian
+2023-09-13T06:45:00.000000Z,active,padmasreev95@gmail.com,Padmasree Venkataraman
+2023-09-14T12:30:00.000000Z,active,cvsrinath@hotmail.com,Srinath c v 
+2023-09-16T09:00:00.000000Z,active,nilanjan.roychowdhury@gmail.com,Nilanjan Roychowdhury
+2023-09-17T05:00:00.000000Z,active,viswa9129@gmail.com,Rajaviswanathan
+2023-09-17T06:30:00.000000Z,active,puranikgn@yahoo.com,Gopalkrishna Puranik
+2023-09-17T07:30:00.000000Z,active,shhage@gmail.com,Srinagesh 
+2023-09-17T08:30:00.000000Z,active,kailasam0310@gmail.com,Kailasam P K
+2023-09-17T10:30:00.000000Z,active,c.anshul@gmail.com,Anshul C
+2023-09-19T05:30:00.000000Z,active,deepa.narasimhan@gmail.com,Deepa Narasimhan
+2023-09-19T07:00:00.000000Z,active,diwakarmb@gmail.com,Diwakar M B
+2023-09-19T12:00:00.000000Z,active,ksuhasdn@gmail.com,Suhas Kalyani 
+2023-09-20T05:00:00.000000Z,canceled,ashok.bangalore@gmail.com,Ashok
+2023-09-22T10:30:00.000000Z,canceled,venkatakrishnav@gmail.com,Venkatakrishna
+2023-09-23T05:30:00.000000Z,canceled,rajeev_n@yahoo.com,Rajeev Iyer
+2023-09-23T11:00:00.000000Z,active,jyotirao.patil@gmail.com,Jyotirao Patil
+2023-09-24T05:00:00.000000Z,active,rajappa.veena@gmail.com,Veena Rajappa
+2023-09-24T06:30:00.000000Z,canceled,venkatakrishnav@gmail.com,Venkatakrishna
+2023-09-24T08:00:00.000000Z,active,rajappa.veena@gmail.com,Veena Rajappa
+2023-09-24T09:30:00.000000Z,active,madhu.madhurakavi@yahoo.in,Madhu Madhurakavi 
+2023-09-25T10:45:00.000000Z,active,vmadalasa@gmail.com,Madalasa Venkataraman
+2023-09-28T06:30:00.000000Z,active,deepikamukesh2003@gmail.com,Deepika
+2023-09-29T05:00:00.000000Z,active,swami.bgl@gmail.com,Swaminathan Ramachandran
+2023-09-29T06:30:00.000000Z,active,rohit@50fin.in,Rohit V
+2023-09-29T08:30:00.000000Z,active,gsrajesh12@gmail.com,G S Rajesh
+2023-09-29T09:30:00.000000Z,active,sivakumarsundaresaniyer@gmail.com,Sivakumar Sundaresan
+2023-10-02T05:00:00.000000Z,active,viswa9129@gmail.com,Rajaviswanathan
+2023-10-03T06:45:00.000000Z,canceled,gsrajesh12@gmail.com,G S Rajesh
+2023-10-03T10:00:00.000000Z,active,knsridharan@winrich.in,K n sridharan 
+2023-10-04T06:00:00.000000Z,active,ae20b019@smail.iitm.ac.in,Bindushree B
+2023-10-04T07:30:00.000000Z,active,gsrajesh12@gmail.com,G S Rajesh
+2023-10-05T10:00:00.000000Z,active,anilkeskar@yahoo.co.in,Anjali keskar 
+2023-10-06T05:00:00.000000Z,canceled,knsridharan@winrich.in,Sridharan 
+2023-10-06T06:30:00.000000Z,canceled,sandeepmiranda@gmail.com,Sandeep Miranda 
+2023-10-06T07:00:00.000000Z,active,sandeepmiranda@gmail.com,Sandeep Miranda 
+2023-10-06T08:30:00.000000Z,active,anumodhmenon@gmail.com,Anumodh Pandath
+2023-10-06T09:30:00.000000Z,active,bharath.kvn@gmail.com,Bharath KVN
+2023-10-06T11:30:00.000000Z,active,uditbalaji@gmail.com,S Balaji 
+2023-10-07T12:30:00.000000Z,active,avitashpurohitcseng@gmail.com,avitash purohit
+2023-10-08T05:30:00.000000Z,active,rajeev_n@yahoo.com,Rajeev Iyer
+2023-10-08T07:00:00.000000Z,active,sivakumarsundaresaniyer@gmail.com,Sivakumar Sundaresan
+2023-10-08T09:00:00.000000Z,active,sureban@yahoo.com,Shrinivas Sureban
+2023-10-08T10:00:00.000000Z,canceled,sivakumarsundaresaniyer@gmail.com,Sivakumar Sundaresan
+2023-10-09T05:15:00.000000Z,active,shwetakash@gmail.com,shweta kashyap
+2023-10-09T11:00:00.000000Z,active,pradyumna@brigadegroup.com,Pradyumma
+2023-10-10T11:30:00.000000Z,active,avitashpurohitcseng@gmail.com,avitash purohit
+2023-10-11T05:30:00.000000Z,active,abhishek.deshpande@liquiloans.com,Abhishek 
+2023-10-11T10:30:00.000000Z,active,sureshaprao@gmail.com,Suresh a p rao
+2023-10-12T05:00:00.000000Z,active,knsridharan@winrich.in,Chennai trip
+2023-10-14T05:00:00.000000Z,active,sureban@yahoo.com,Shrinivas Sureban
+2023-10-14T07:30:00.000000Z,canceled,sphoorti.kumar@gmail.com,Sphoorti kumar
+2023-10-14T09:30:00.000000Z,active,venkatakrishnav@gmail.com,Venkatakrishna
+2023-10-16T06:30:00.000000Z,active,dan.goutam@gmail.com,Goutam Dan
+2023-10-18T05:30:00.000000Z,active,subbuak2007@gmail.com,subramanian
+2023-10-18T12:30:00.000000Z,active,arindam260489@gmail.com,Arindam Gupta
+2023-10-19T05:00:00.000000Z,active,vnnilesh@gmai.com,Nilesh Vellor
+2023-10-19T08:00:00.000000Z,active,knsridharan@winrich.in,K n sridharan 
+2023-10-19T08:30:00.000000Z,active,knsridharan@winrich.in,Sridharan 
+2023-10-20T05:00:00.000000Z,active,knsridharan@winrich.in,Festival 
+2023-10-21T05:00:00.000000Z,active,srinivasansriram19@gmail.com,Sriram
+2023-10-21T05:00:00.000000Z,canceled,srinivasasriram19@gmail.com,Sriram
+2023-10-21T05:00:00.000000Z,canceled,nvsraj@gmail.com,Rajagopal NVS
+2023-10-21T06:30:00.000000Z,active,sphoorti.kumar@gmail.com,Sphoorti kumar
+2023-10-21T08:00:00.000000Z,canceled,vnnilesh@gmail.com,V N Nilesh
+2023-10-22T05:30:00.000000Z,canceled,naveenduggal1@gmail.com,Naveen Duggal
+2023-10-23T05:00:00.000000Z,canceled,knsridharan@winrich.in,Festival 
+2023-10-23T05:30:00.000000Z,active,naveenduggal1@gmail.com,Naveen duggal
+2023-10-23T11:30:00.000000Z,active,pramodm1977@gmail.com,Pramod mallya
+2023-10-24T05:00:00.000000Z,canceled,knsridharan@winrich.in,Festival 
+2023-10-24T05:00:00.000000Z,canceled,pramodm1977@gmail.com,Pramod mallya
+2023-10-26T05:00:00.000000Z,canceled,knsridharan@winrich.in,K n sridharan 
+2023-10-26T09:00:00.000000Z,active,gangadhar.dande@gmail.com,Gangadhar 
+2023-10-27T05:00:00.000000Z,active,jagannathan@gmail.com,Jagannathan Srinivasan
+2023-10-28T05:00:00.000000Z,active,kagrawal1001@gmail.com,Kapil Agarwal 
+2023-10-29T05:00:00.000000Z,canceled,knsridharan@winrich.in,Monthly meeting 
+2023-11-14T05:00:00.000000Z,active,knsridharan@winrich.in,K n sridharan 

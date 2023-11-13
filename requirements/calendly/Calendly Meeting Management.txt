@@ -1,0 +1,11 @@
+Calendly Meeting Management
+
+Features
+- Display all the meeting events for the past 2 months and 2 months in future
+- The meeting details are pulled using Calendly API
+- The meeting details will contain the client name, meeting date, category of client, etc
+- Another sheet of data will display the clients that have not had a meeting in the past2 months or in future
+- The admin user should be able to select one or users from the list of clients and send a reminder message to the clients
+- The reminder message is sent using a whatsapp template
+- Another sheet of data will display the client name, meeting reminder sent date
+- The whatsapp meeting template will be displayed in the UI and not editable
